@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2b2b2b,100:5a5a5a&text=RISHABH%20YADAV&fontSize=42&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20Undergraduate%20%C2%B7%20AI%20%26%20Systems%20Developer&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1E3A5F,100:0EA5E9&text=RISHABH%20YADAV&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Undergraduate%20%C2%B7%20AI%20%26%20Systems%20Developer&descAlignY=58&descSize=17&descColor=CBD5E1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=555555&center=true&vCenter=true&width=650&lines=Building+AI+and+systems+projects;Currently+working+on+SkyRoute+AI;Java+%C2%B7+Python+%C2%B7+Data+Structures+%26+Algorithms" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+AI+and+systems+projects;Currently+working+on+SkyRoute+AI;Java+%C2%B7+Python+%C2%B7+Data+Structures+%26+Algorithms" />
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-ry3765812%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ry3765812@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rishabhy9026-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/rishabhy9026)
+<a href="mailto:ry3765812@gmail.com"><img src="https://img.shields.io/badge/Email-ry3765812%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=0EA5E9"/></a>
+<a href="https://github.com/rishabhy9026"><img src="https://img.shields.io/badge/GitHub-rishabhy9026-0F172A?style=for-the-badge&logo=github&logoColor=0EA5E9"/></a>
 
 </div>
 
@@ -23,11 +23,11 @@ B.Tech CSE student at Lovely Professional University, focused on algorithmic pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,mysql&theme=dark&perline=8" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=flask,sklearn,git,github,vscode,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=flask,sklearn,git,github,vscode,linux&theme=dark&perline=6" />
 
 </div>
 
@@ -35,42 +35,53 @@ B.Tech CSE student at Lovely Professional University, focused on algorithmic pro
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**SkyRoute AI**
-Smart Drone Delivery & Path Optimization System
+### SkyRoute AI
+**Smart Drone Delivery & Path Optimization System**
 
 A JavaFX desktop application implementing Dijkstra's, A*, BFS/DFS, Kruskal's MST, and a greedy scheduler for real-time drone routing, built on a layered architecture with SQLite persistence.
 
-`Java` `JavaFX` `SQLite` `Maven`
+![Java](https://img.shields.io/badge/-Java-0F172A?style=flat-square&logo=openjdk&logoColor=0EA5E9)
+![JavaFX](https://img.shields.io/badge/-JavaFX-0F172A?style=flat-square&logoColor=0EA5E9)
+![SQLite](https://img.shields.io/badge/-SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=0EA5E9)
 
 </td>
 <td width="50%" valign="top">
 
-**Drone Delivery Path Planner**
-Algorithmic route optimization for delivery networks, focused on shortest-path and scheduling efficiency.
+### Drone Delivery Path Planner
+**Route Optimization Engine**
 
-`Python` `Graph Algorithms`
+Algorithmic route optimization for delivery networks, focused on shortest-path routing and scheduling efficiency at scale.
+
+![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logo=python&logoColor=0EA5E9)
+![Algorithms](https://img.shields.io/badge/-Graph_Algorithms-0F172A?style=flat-square&logoColor=0EA5E9)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**AI System Call Optimizer**
-A system-level tool that applies AI techniques to optimize system call performance.
+### AI System Call Optimizer
+**Systems-Level AI Tooling**
 
-`Python` `Systems`
+A system-level tool that applies AI techniques to optimize system call performance and resource efficiency.
+
+![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logo=python&logoColor=0EA5E9)
+![Systems](https://img.shields.io/badge/-Systems-0F172A?style=flat-square&logoColor=0EA5E9)
 
 </td>
 <td width="50%" valign="top">
 
-**Smart Waste Segregation System**
-An IoT-based system for automated waste classification and sorting.
+### Smart Waste Segregation System
+**IoT-Based Classification**
 
-`IoT` `Python`
+An IoT-based system for automated waste classification and sorting using embedded sensors.
+
+![IoT](https://img.shields.io/badge/-IoT-0F172A?style=flat-square&logoColor=0EA5E9)
+![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logo=python&logoColor=0EA5E9)
 
 </td>
 </tr>
@@ -82,12 +93,12 @@ An IoT-based system for automated waste classification and sorting.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhy9026&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhy9026&layout=compact&theme=default&hide_border=true&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhy9026&show_icons=true&hide_border=true&hide_title=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhy9026&layout=compact&hide_border=true&hide_title=true&bg_color=0F172A&title_color=0EA5E9&text_color=CBD5E1" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhy9026&theme=default&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhy9026&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
 
 </div>
 
@@ -97,7 +108,7 @@ An IoT-based system for automated waste classification and sorting.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhy9026&theme=minimal&hide_border=true&area=true&color=555555&line=333333&point=222222"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhy9026&hide_border=true&area=true&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=FFFFFF"/>
 
 </div>
 
@@ -118,6 +129,6 @@ An IoT-based system for automated waste classification and sorting.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2b2b2b,100:5a5a5a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A5F,100:0EA5E9"/>
 
 </div>
