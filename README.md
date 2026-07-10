@@ -1,178 +1,100 @@
-<h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
+<div align="center">
 
-<h3 align="center">💻 B.Tech CSE Student | AI & Data Science Enthusiast | Java Developer 🚀</h3>
+# 👋 Hi, I'm Rishabh Yadav
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+%26+DSA+Enthusiast;AI+%26+Data+Science+Learner;Building+Real-World+Projects;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
-</p>
+### 💻 B.Tech CSE Student • Developer • AI & Data Science Enthusiast
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+%26+DSA+Enthusiast+☕;Exploring+AI+%26+Data+Science+🤖;Building+Real-World+Projects+🚀;Code.+Learn.+Build.+Repeat.+💻" />
 
-## 👨‍💻 About Me
-
-🎓 I'm a **B.Tech Computer Science and Engineering Student**
-
-💻 Passionate about **Programming, Data Structures and Software Development**
-
-🤖 Interested in **Artificial Intelligence, Machine Learning and Data Science**
-
-☕ I enjoy building applications using **Java and Python**
-
-📊 Exploring **Data Analytics and Data Visualization**
-
-🧠 Currently improving my **DSA and Problem Solving Skills**
-
-🚀 I love creating projects that solve **real-world problems**
-
-🌱 Always learning and exploring **new technologies**
+</div>
 
 ---
 
-## 🚀 What I Enjoy Working On
+## 🚀 About Me
 
-* 🤖 Artificial Intelligence Projects
-* 📊 Data Science & Data Analytics
-* ☕ Java Application Development
-* 🧠 Data Structures and Algorithms
-* 🌐 Web Development
-* 🐍 Python Projects
-* 📈 Data Visualization
-* 💡 Real-World Problem Solving
+* 🎓 B.Tech Computer Science & Engineering Student
+* 💻 Passionate about **Java, DSA & Software Development**
+* 🤖 Exploring **AI, Machine Learning & Data Science**
+* 📊 Interested in **Data Analytics & Visualization**
+* 🚀 Building projects that solve real-world problems
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,mysql,git,github,vscode,linux" />
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,sklearn" />
 
-<img src="https://skillicons.dev/icons?i=flask,sklearn,linux" />
-
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🌱 Currently Exploring
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-`Java` • `Python` • `C` • `C++` • `JavaScript`
-
-### 🌐 Web Technologies
-
-`HTML` • `CSS` • `JavaScript` • `Flask`
-
-### 📊 Data Science & AI
-
-`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `Machine Learning`
-
-### 🗄️ Database
-
-`MySQL` • `SQLite`
-
-### ⚙️ Tools & Platforms
-
-`Git` • `GitHub` • `VS Code` • `Power BI` • `Excel` • `Linux`
-
----
-
-## 🌱 Currently Learning
-
-🧠 Advanced **Data Structures & Algorithms**
-
-🤖 **Machine Learning & Artificial Intelligence**
-
-📊 **Data Analytics & Visualization**
-
+🧠 **Data Structures & Algorithms**   •  
+🤖 **Artificial Intelligence**   •  
+📊 **Data Science**   •  
 🌐 **Backend Development**
 
-☁️ **Cloud Computing**
-
-🚀 Building more **Real-World Projects**
+</div>
 
 ---
 
-## 📌 Featured Project
+## 📊 GitHub Analytics
 
-### 🎓 Student Record Management System
+<div align="center">
 
-A modern **Java Swing based Student Record Management System** demonstrating practical implementation of Data Structures and Algorithms.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhy9026&show_icons=true&theme=tokyonight&hide_border=true" />
 
-🔹 Student Record Management
-🔹 CGPA Analytics
-🔹 Stack Implementation
-🔹 Queue Implementation
-🔹 Binary Search Tree
-🔹 Searching & Sorting
-🔹 Interactive Java Swing GUI
-🔹 Data Visualization
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhy9026&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishabhy9026&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhy9026&theme=tokyo-night&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhy9026&theme=tokyonight" />
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhy9026&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhy9026&theme=tokyo-night" />
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishabhy9026&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</p>
-
----
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rishabhy9026/rishabhy9026/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/rishabhy9026">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Rishabh_Yadav-181717?style=for-the-badge&logo=github" />
 </a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Code • Learn • Build • Repeat 🚀
+
+<img src="https://komarev.com/ghpvc/?username=rishabhy9026&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
+<br><br>
+
+**✨ Thanks for visiting my profile ✨**
+
+</div>
+
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
